@@ -21,6 +21,4 @@ ftest
 fdsfds
 gfd
 fdsfds
-test
-a
-b
+
